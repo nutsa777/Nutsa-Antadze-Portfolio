@@ -7,4 +7,4 @@ Manual QA Engineer portfolio showcasing testing documentation
 *ნუცა*
 
 
-{ჩემი ლინდინის პროფილი}(https://www.linkedin.com/in/nutsa-antadze-66a52428b/)
+[ჩემი ლინდინის პროფილი](https://www.linkedin.com/in/nutsa-antadze-66a52428b/)
